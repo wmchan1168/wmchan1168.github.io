@@ -1,4 +1,4 @@
-I, Wenmin ("me", “we”, “us”, “our”), are a student of User Experience Engineering. I use neural networks that combine biologically inspired models of the human brain and key sensory networks to create a virtual central nervous system that we call our “Digital People”™. The Digital People, our website, along with our related applications, and other services provided by us will be collectively called the “Service”.
+I, Wenmin, am a student of User Experience Engineering. I use neural networks that combine biologically inspired models of the human brain and key sensory networks to create a virtual central nervous system that we call our “Digital People”™. The Digital People, our website, along with our related applications, and other services provided by us will be collectively called the “Service”.
 
 BY CLICKING “I ACCEPT,” OR BY DOWNLOADING, INSTALLING, OR OTHERWISE ACCESSING OR USING THE SERVICE, YOU AGREE THAT YOU HAVE READ AND UNDERSTOOD, AND, AS A CONDITION TO YOUR USE OF THE SERVICE, YOU AGREE TO BE BOUND BY, THE FOLLOWING TERMS AND CONDITIONS, INCLUDING WENMIN’ PRIVACY POLICY (TOGETHER, THESE “TERMS”). IF YOU ARE NOT ELIGIBLE, OR DO NOT AGREE TO THE TERMS, THEN YOU DO NOT HAVE OUR PERMISSION TO USE THE SERVICE. YOUR USE OF THE SERVICE, AND WENMIN’ PROVISION OF THE SERVICE TO YOU, CONSTITUTES AN AGREEMENT BY WENMIN AND BY YOU TO BE BOUND BY THESE TERMS. If you are an entity, organization, or company, the individual accepting these Terms on your behalf represents and warrants that they have authority to bind you to these Terms and you agree to be bound by these Terms.
 
@@ -20,9 +20,9 @@ Email: wenmin.chan0507@gmail.com
 
 Changes to the Terms
 
-We may revise the Terms from time to time, for example if there are changes to relevant laws and regulatory requirements or changes to our business practices. If we revise these Terms we will post the revised Terms on this webpage and update the “Last Updated” date below. Unless otherwise expressly agreed in writing, your access will be subject to the most recent version of the Terms available on this webpage.
+I may revise the Terms from time to time, for example if there are changes to relevant laws and regulatory requirements or changes to our business practices. If we revise these Terms we will post the revised Terms on this webpage and update the “Last Updated” date below. Unless otherwise expressly agreed in writing, your access will be subject to the most recent version of the Terms available on this webpage.
 
-Immaterial modifications are effective upon publication. You will be required to accept the then-current version of these Terms with each instance of accessing the Service. We recommend that you read through the Terms available on this webpage regularly so that you can be sure that you are aware of any changes that may apply to you.
+Immaterial modifications are effective upon publication. You will be required to accept the then-current version of these Terms with each instance of accessing the Service. I recommend that you read through the Terms available on this webpage regularly so that you can be sure that you are aware of any changes that may apply to you.
 
 Except as expressly permitted in this Section 3, these Terms may be amended only by a written agreement signed by authorized representatives of the parties to these Terms.
 
@@ -42,7 +42,7 @@ Our Digital People are not intended for children. If you are under the age of 18
 
 Unless otherwise agreed, access to the Service is currently made available to you free of charge.
 
-Access to the Service is permitted on a temporary basis. We may suspend, withdraw, discontinue or change all or any part of the Service without notice to you.
+Access to the Service is permitted on a temporary basis. I may suspend, withdraw, discontinue or change all or any part of the Service without notice to you.
 
 Subject to your continued compliance with these Terms, we hereby grant to you a non-exclusive, non-transferable, non-sublicensable, revocable, license to access and use the Service for your own personal use. If you breach any provision of these Terms, this license will immediately terminate and you must immediately cease use of the Service.
 
@@ -78,7 +78,7 @@ J. engage in behavior towards the Digital People, or encourage the Digital Peopl
 
 Third party content
 
-By accessing the Service, third party services (including data, information, applications, and other products, services, and/or materials) or links (including to third-party websites, applications or services) (collectively, “Third Party Content”) may be made available to you. By using any Third Party Content, you agree that Wenmin may transfer your information to the applicable third party service. We have no control over any Third Party Content and we are not responsible or liable for such Third Party Content in any way, including its use of your exported information.
+By accessing the Service, third party services (including data, information, applications, and other products, services, and/or materials) or links (including to third-party websites, applications or services) (collectively, “Third Party Content”) may be made available to you. By using any Third Party Content, you agree that Wenmin may transfer your information to the applicable third party service. I have no control over any Third Party Content and we are not responsible or liable for such Third Party Content in any way, including its use of your exported information.
 
 The Service may include or incorporate third party software components that are generally available free of charge under licenses granting recipients broad rights to copy, modify, and distribute those components (“Third Party Components”). Although the Service is provided to you subject to these Terms, nothing in these Terms prevents, restricts, or is intended to prevent or restrict you from obtaining Third Party Components under the applicable third party licenses or to limit your use of Third Party Components under those third party licenses.
 
@@ -86,7 +86,7 @@ Third Party Content and Third Party Components are provided “AS IS” and “A
 
 Intellectual property
 
-We are the owner or the licensee of all intellectual property rights in the Service, our Digital People or any element thereof. Any and all features, content, materials and information available via the Service (with the exception of Third Party Content) are owned or licensed by us and shall remain owned or licensed by us at all times. Except as expressly authorized by Wenmin, you may not make use of the Service and Wenmin reserves all rights to the Service not granted expressly in these Terms.
+I am the owner or the licensee of all intellectual property rights in the Service, our Digital People or any element thereof. Any and all features, content, materials and information available via the Service (with the exception of Third Party Content) are owned or licensed by us and shall remain owned or licensed by us at all times. Except as expressly authorized by Wenmin, you may not make use of the Service and Wenmin reserves all rights to the Service not granted expressly in these Terms.
 
 If you copy, use or access any part of the Service in breach of the Terms, your right to use and access the Service will cease immediately and you must destroy any copies of the materials you have made.
 
@@ -94,11 +94,11 @@ All right, title and interest in and to any Third Party Content shall remain wit
 
 Feedback
 
-We are always looking to try and improve our technology and our Digital People so would welcome any comment, questions, suggestions or ideas (“Feedback”) you have may about us or our Service. By submitting Feedback to us you agree that we may use your Feedback in any way without obligation to you.
+I am always looking to try and improve our technology and our Digital People so would welcome any comment, questions, suggestions or ideas (“Feedback”) you have may about us or our Service. By submitting Feedback to us you agree that we may use your Feedback in any way without obligation to you.
 
 Indemnity
 
-To the fullest extent permitted by law, you are responsible for your use of the Service, and you will defend and indemnify Wenmin and its officers, directors, employees, consultants, affiliates, subsidiaries and agents (together, the “Wenmin Entities”) from and against every claim brought by a third party, and any related liability, damage, loss, and expense, including reasonable attorneys’ fees and costs, arising out of or connected with: (a) your unauthorized use of, or misuse of, the Service; (b) your violation of any portion of these Terms, any representation, warranty, or agreement referenced in these Terms, or any applicable law or regulation; (c) your violation of any third party right, including any intellectual property right or publicity, confidentiality, other property, or privacy right; or (d) any dispute or issue between you and any third party. We reserve the right, at our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you (without limiting your indemnification obligations with respect to that matter), and in that case, you agree to cooperate with our defense of those claims.
+To the fullest extent permitted by law, you are responsible for your use of the Service, and you will defend and indemnify Wenmin and its officers, directors, employees, consultants, affiliates, subsidiaries and agents (together, the “Wenmin Entities”) from and against every claim brought by a third party, and any related liability, damage, loss, and expense, including reasonable attorneys’ fees and costs, arising out of or connected with: (a) your unauthorized use of, or misuse of, the Service; (b) your violation of any portion of these Terms, any representation, warranty, or agreement referenced in these Terms, or any applicable law or regulation; (c) your violation of any third party right, including any intellectual property right or publicity, confidentiality, other property, or privacy right; or (d) any dispute or issue between you and any third party. I reserve the right, at our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you (without limiting your indemnification obligations with respect to that matter), and in that case, you agree to cooperate with our defense of those claims.
 
 Disclaimers; No Warranties
 
@@ -120,7 +120,7 @@ Other important terms
 
 These Terms are effective beginning when you accept the Terms or first download, install, access, or use the Service, and ending when terminated (a) by Wenmin, at any time, in its discretion, or (b) by you by ceasing all use of the Service. Upon termination of this terms: (a) your license rights will terminate and you must immediately cease all use of the Service; and (b) any terms which by their nature are intended to survive, shall survive termination of these Terms.
 
-We may transfer our rights and obligations under these Terms to another organization, but this will not affect your rights or our obligations under these Terms. You may only transfer your rights or obligations under these Terms to another person if we agree in writing.
+I may transfer our rights and obligations under these Terms to another organization, but this will not affect your rights or our obligations under these Terms. You may only transfer your rights or obligations under these Terms to another person if we agree in writing.
 
 Nobody else has any rights under these Terms, this agreement is between you and us. No other person shall have any rights to enforce any of its terms.
 
@@ -152,6 +152,6 @@ By using the Service, you consent to receiving certain electronic communications
 
 If you are a California resident, under California Civil Code Section 1789.3, you may contact the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs in writing at 1625 N. Market Blvd., Suite S-202, Sacramento, California 95834, or by telephone at (800) 952-5210 in order to resolve a complaint regarding the Service or to receive further information regarding use of the Service.
 
-We are under no obligation to provide support for the Service. In instances where we may offer support, the support will be subject to published policies.
+I am under no obligation to provide support for the Service. In instances where we may offer support, the support will be subject to published policies.
 
 2023-07-0
