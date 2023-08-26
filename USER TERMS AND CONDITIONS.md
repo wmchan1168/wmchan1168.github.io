@@ -2,7 +2,7 @@ I, Wenmin ("me", “we”, “us”, “our”), are a student of User Experienc
 
 BY CLICKING “I ACCEPT,” OR BY DOWNLOADING, INSTALLING, OR OTHERWISE ACCESSING OR USING THE SERVICE, YOU AGREE THAT YOU HAVE READ AND UNDERSTOOD, AND, AS A CONDITION TO YOUR USE OF THE SERVICE, YOU AGREE TO BE BOUND BY, THE FOLLOWING TERMS AND CONDITIONS, INCLUDING WENMIN’ PRIVACY POLICY (TOGETHER, THESE “TERMS”). IF YOU ARE NOT ELIGIBLE, OR DO NOT AGREE TO THE TERMS, THEN YOU DO NOT HAVE OUR PERMISSION TO USE THE SERVICE. YOUR USE OF THE SERVICE, AND WENMIN’ PROVISION OF THE SERVICE TO YOU, CONSTITUTES AN AGREEMENT BY WENMIN AND BY YOU TO BE BOUND BY THESE TERMS. If you are an entity, organization, or company, the individual accepting these Terms on your behalf represents and warrants that they have authority to bind you to these Terms and you agree to be bound by these Terms.
 
-Arbitration Notice for users in the United States. Except for certain kinds of disputes described below, you agree that disputes arising under these Terms will be resolved by binding, individual arbitration, and BY ACCEPTING THESE TERMS, YOU AND WENMIN ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN ANY CLASS ACTION OR REPRESENTATIVE PROCEEDING. YOU AGREE TO GIVE UP YOUR RIGHT TO GO TO COURT TO ASSERT OR DEFEND YOUR RIGHTS UNDER THIS AGREEMENT (EXCEPT FOR MATTERS THAT MAY BE TAKEN TO SMALL CLAIMS COURT). YOUR RIGHTS WILL BE DETERMINED BY A NEUTRAL ARBITRATOR AND NOT A JUDGE OR JURY.
+Arbitration Notice for users in the United Kindom. Except for certain kinds of disputes described below, you agree that disputes arising under these Terms will be resolved by binding, individual arbitration, and BY ACCEPTING THESE TERMS, YOU AND WENMIN ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN ANY CLASS ACTION OR REPRESENTATIVE PROCEEDING. YOU AGREE TO GIVE UP YOUR RIGHT TO GO TO COURT TO ASSERT OR DEFEND YOUR RIGHTS UNDER THIS AGREEMENT (EXCEPT FOR MATTERS THAT MAY BE TAKEN TO SMALL CLAIMS COURT). YOUR RIGHTS WILL BE DETERMINED BY A NEUTRAL ARBITRATOR AND NOT A JUDGE OR JURY.
 
 The Terms
 
@@ -26,7 +26,7 @@ Immaterial modifications are effective upon publication. You will be required to
 
 Except as expressly permitted in this Section 3, these Terms may be amended only by a written agreement signed by authorized representatives of the parties to these Terms.
 
-These Terms were last updated in March 2021.
+These Terms were last updated in August 2023.
 
 Important information about your data
 
